@@ -4,6 +4,6 @@ I started my journey to become a software engineer over a decade ago. I've done 
   
 [Read Testimonials](https://keeganbruer.com/#testimonials)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[View My Curriculum Vitae](https://keeganbruer.com/#testimonials)
+[View My Curriculum Vitae](https://keeganbruer.com/CV)
 
 </div>
